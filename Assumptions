@@ -1,5 +1,11 @@
 #Design Assumptions List
-Assist in the breathing functioning of an at-home patient
+Assist in the breathing functionality of an at-home patient
 DIY
 Low Cost
 Parts available from Amazon, Home Depot or similar provider
+Sensors:
+- alert patient self regulating
+- alert care giver monitoring patients with the device working
+- breath detection rhythm by sensor (not
+- intake / exhaust pressure sensor
+- blood oxygenation sensor
