@@ -1,0 +1,21 @@
+TITLE: Low-cost Negative Pressure Ventilator
+DESCRIPTION: An affordable at-home pro-active biphasic cuirass ventilation device gives patients a chance to recover from the worst symptoms of Covid-19 infection when these patients are otherwise triaged away from hospital care and Positive Pressure Ventilators. 
+NEEDED RESOURCES: As we proceed with prototype construction, device component recommendations that can be easily purchased from local hardware stores, Home Depot, Amazon or similar local resources.
+NEEDED MANPOWER: (1) Confirmation (and mentor) from pulmonary doctor(s) familiar with the operation of Negative Pressure Ventilators versus Positive Pressure Ventilators. (2) Arduino software developers familiar with writing code to regulate 12volt DC motor and various required actuators. (3) Help with communication to patients and doctors and documentation.
+LENGTH OF PROJECT: Prototype finished April 10. Initial testing and refinement completed April 24. Professional evaluations to follow with simultaneous release of open-source open-hardware documentation.
+WHY: As the Covid-19 pandemic increases and continues onwards, the patient’s home becomes the hospice care center for those individuals who are turned aside because of the lack of professional medical resources or co-morbidity. It is imagined that the intervention of a pro-active affordable at-home Negative Pressure Ventilator to support the patient’s breathing gives this individual patient a chance to survive and recover. A visiting hospice care giver can oversee the patient’s progress. There is also a role for Remote Patient Monitoring. The concept is based on similar projects with adaption required to meet the Covid-19 crisis parameters:
+https://adc.bmj.com/content/77/5/454
+https://www.youtube.com/watch?v=vSg3ETX3Bjg
+http://historical.hsl.virginia.edu/ironlung/ironlung/pg6.cfm.html
+COST: US$200 patient out-of-pocket expense for DIY version with plans, part sources and public code. 
+US$800 for boxed version with delivery Summer 2020.
+WHO: We are a committed team of 3 experienced makers. 
+- Steve Bull: Maker. In conjunction with the release of a Remote Patient Monitoring (RPM) smart device application, I am the lead in daily identifying the at-risk patients with blood pressure that exceeds 180mm to be sure those patient receive immediate follow-up health care from the patient’s doctor. I am also an inventor holding patents in various fields.
+- Jerry Svoboda: CAD designer, professional model-maker and prototype rigger
+- Geoff Binns-Calvey: Prototype buildervand special effects designer.
+QUESTIONS: 
+Is the at-home early intervention of a Negative Pressure Ventilator dangerous or even viable?
+Will the patient, patient’s family or local community maker be able to easily make the DIY device?
+Will the medical community accept and recommend this Negative Pressure Ventilator treatment when no other option is available?
+ALTERNATIVES:
+Local world-wide Maker shops build and provide the Negative Pressure Ventilator devices.
