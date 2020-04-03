@@ -1,19 +1,24 @@
-A number of resource links have been loosely gathered. 1st attempt will be to gather them all here. 2nd provide some order with comments.
+Resource links
 
 Order by priority as of 20200403
 
-
 Challenge begins 4/1/2020, Goal: "Surviving the Peak" - https://www.coventchallenge.com/#goals
-Code Life Ventilator Challenge - https://www.agorize.com/en/challenges/code-life-challenge - we should signup for this one too!
-
+Code Life Ventilator Challenge - https://www.agorize.com/en/challenges/code-life-challenge 
 
 Under hash tag # Request-a-project we should list ours
-Slack channel with the Team OSV Project - https://osv-x.slack.com/join/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q that mighjt have some resources. SMB joined 5:28pm 3/31/2020 and left an introductory message asking for support.
-Code Life Ventilator Challenge - https://www.agorize.com/en/challenges/code-life-challenge - we should signup for this one too!
+Slack channel with the Team OSV Project 
+- https://osv-x.slack.com/join/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q with useful resources. 
+- - SMB joined 5:28pm 3/31/2020 and left an introductory message asking for support.
+Code Life Ventilator Challenge 
+- https://www.agorize.com/en/challenges/code-life-challenge - we should signup for this one too!
 
-While this is a Positive Pressure Ventilator device the video is usefully discussing air flow and pressures that need to be ubnderstood as issues for a Negative Pressure Ventilator device - "RT Clinic: Setting up the VAR - Vortran Automatic Resuscitator - Go2Vent" https://www.youtube.com/watch?v=JRKIyEJAEhA&feature=youtu.be
+This is an instructional video of a Positive Pressure Ventilator device.
+Usefully discussing air flow and pressures that are issues for a Negative Pressure Ventilator device - 
+"RT Clinic: Setting up the VAR - Vortran Automatic Resuscitator - Go2Vent" 
+https://www.youtube.com/watch?v=JRKIyEJAEhA&feature=youtu.be
 
-2003 presentation on Negative Pressure Ventilation by David M Linton MB ChB FCA MPhil (Crit Care)  -https://www.youtube.com/watch?v=vSg3ETX3Bjg 
+2003 presentation on Negative Pressure Ventilation by David M Linton MB ChB FCA MPhil (Crit Care)  
+-https://www.youtube.com/watch?v=vSg3ETX3Bjg 
 
 Terrific handbook resource > https://coronavirustechhandbook.com/ventilators  
  - (somewhere this has Biphasic Cuirass Ventilation mp3 download at 320kbps high quality)
@@ -22,20 +27,30 @@ Wikipedia:
  - Lung Volumes - https://en.wikipedia.org/wiki/Lung_volumes
  - Iron Lung - https://en.wikipedia.org/wiki/Iron_lung
  
-The role of negative pressure ventilation (useful explanation of pros/cons of various device approaches - https://adc.bmj.com/content/77/5/454
+The role of negative pressure ventilation (useful explanation of pros/cons of various device approaches 
+- https://adc.bmj.com/content/77/5/454
  
-Iron Lung version 1 (useful DIY prototype) - http://historical.hsl.virginia.edu/ironlung/ironlung/pg6.cfm.html
+Iron Lung version 1 (useful DIY prototype) 
+- http://historical.hsl.virginia.edu/ironlung/ironlung/pg6.cfm.html
 
-Hackaday - https://hackaday.com/2020/03/22/coronavirus-and-foldinghome-more-on-how-your-computer-helps-medical-research/
+Hackaday 
+- https://hackaday.com/2020/03/22/coronavirus-and-foldinghome-more-on-how-your-computer-helps-medical-research/
 
 Under hash tag # Request-a-project we should list ours
-Slack channel with the Team OSV Project - https://osv-x.slack.com/join/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q that mighjt have some resources. SMB joined 5:28pm 3/31/2020 and left an introductory message asking for support.
+Slack channel with the Team OSV Project 
+- https://osv-x.slack.com/join/shared_invite/zt-cz1m3vck-Cx23KdEYUSVAKmSpd4_C3Q that mighjt have some resources. SMB joined 5:28pm 3/31/2020 and left an introductory message asking for support.
 
-Coronavirus Covid 19 Pandemic Ventilator Biphasic Cuirass Ventilation, uesful video - https://hipnplay.com/en/download/coronavirus-covid-19-pandemic-ventilator-biphasic-cuirass-ventilation-LS00RkpLdHF5LXFtTQ
+Coronavirus Covid 19 Pandemic Ventilator Biphasic Cuirass Ventilation, uesful video 
+- https://hipnplay.com/en/download/coronavirus-covid-19-pandemic-ventilator-biphasic-cuirass-ventilation-LS00RkpLdHF5LXFtTQ
 
 OTHERS
-Paper "Prone ventilation for adult patients with acute respiratory distress syndrome" - https://www.uptodate.com/contents/prone-ventilation-for-adult-patients-with-acute-respiratory-distress-syndrome
+Clearing your Chest instruction 
+- https://aspergillosis.org/wp-content/uploads/2018/11/Aspergillosis-Airway-clearance-leaflet-updated-May2016-Autosaved.pdf
+Paper "Prone ventilation for adult patients with acute respiratory distress syndrome" 
+- https://www.uptodate.com/contents/prone-ventilation-for-adult-patients-with-acute-respiratory-distress-syndrome
 Discord site - https://discordapp.com/login being used in some project to host apps
 Go Fund Me - https://www.gofundme.com/f/open-source-pandemic-ventilator
-2020-03-31 https://www.uptodate.com/contents/prone-ventilation-for-adult-patients-with-acute-respiratory-distress-syndrome - article of alternate method of ventilation,"Prone ventilation refers to the delivery of mechanical ventilation with the patient lying in the prone position. Prone ventilation is NOT considered a mode of mechanical ventilation."
-This server hosting service (?) has something to do with a ventilator effort, more TBD later: https://discordapp.com/login
+
+PRONE VENTILATION (what is prefered Negative Pressure Ventilation posture: seated upright, on back, prone?
+2020-03-31 https://www.uptodate.com/contents/prone-ventilation-for-adult-patients-with-acute-respiratory-distress-syndrome 
+- article of alternate method of ventilation,"Prone ventilation refers to the delivery of mechanical ventilation with the patient lying in the prone position. Prone ventilation is NOT considered a mode of mechanical ventilation."
